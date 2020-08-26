@@ -8,3 +8,4 @@ This is Account Service providing cusomer specific information. It included thre
 
 Runs on port : 8080
 Uses in memory H2 database (data.sql with insert scripts provided in resources section.) 
+Test cases are handled in AppTest.java file.
